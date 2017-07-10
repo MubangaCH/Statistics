@@ -1,0 +1,6 @@
+The harmonic mean is useful in situations involving rates and ratios. For example, to calculate the average speed a car travels at for the
+same distance you could use the harmonic mean. Eg a car travels 100 miles at 70 mph from A to destination B and then back to A at 50 mph
+you use the harmonic mean to calculate its average speed for the two trips.
+Harmonic mean divides the total number of variables by the sum of each of their reciprocals
+Harmonic mean = N/((1/a1) + (1/a2) +....(1/aN))
+In this case harmonic mean = 2/((1/70) + (1/50))
