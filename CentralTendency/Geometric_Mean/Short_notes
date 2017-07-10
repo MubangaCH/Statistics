@@ -1,1 +1,7 @@
-Here
+The geometric mean is useful when calculating the average of data with different properties. 
+For example you want to purchase a car with different horsepowers and prices. One can has horsepower of 350 and costs $30000
+while the other has horsepower of 400 and costs $40000. If you want to get value for your money, you may want to compute the 
+geometric mean of each car by multiplying the price of each car with its horsepower and taking the squareroot. Eg
+G.mean of car 1 = sqrt(500 * 300000)
+G.mean of car 2 =sqrt (400 * 400000)
+G.mean = Nroot(a1 * a2 * ....aN
