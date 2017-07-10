@@ -1,0 +1,5 @@
+ The mean is calculated by dividing the sum of all the variables by the total number of variables
+ The median is calculated by getting the middle number of a sorted list of variables. 
+ If the total number of variables is even, the average of the two middle numbers is obtained
+ The mode is calculated by picking out the variables occuring with the highest freguency. 
+ This code can calculate mode from multimodal data 
